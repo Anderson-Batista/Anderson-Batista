@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("Inserindo mais uma linha para commitar");
 		System.out.println("Parte 3 Passo 4 da pratica 02");
 		System.out.println("commitando na branch master");
+		System.out.println("commitando na branch master pela segunda vez");
 	}
 
 }
