@@ -9,6 +9,7 @@ public class HelloWorld {
 		System.out.println("Parte 3 Passo 4 da pratica 02");
 		System.out.println("Realizando commmit na branch hotfix");
 		System.out.println("Realizando segundo commmit na branch hotfix");
+		System.out.println("Realizando terceiro commmit na branch hotfix");
 	}
 
 }
