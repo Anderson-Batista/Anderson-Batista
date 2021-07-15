@@ -14,6 +14,8 @@ public class HelloWorld {
 		System.out.println("Realizando commmit na branch hotfix");
 		System.out.println("Realizando segundo commmit na branch hotfix");
 		System.out.println("Realizando terceiro commmit na branch hotfix");
+		
+		System.out.println("Apresentação da prática");
 
 	}
 
